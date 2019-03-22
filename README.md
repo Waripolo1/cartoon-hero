@@ -1,2 +1,2 @@
 # cartoon-hero
-A website about my favourite cartoon character.
+A website about my favorite cartoon character.
