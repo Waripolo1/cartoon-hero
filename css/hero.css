@@ -4,7 +4,7 @@ h1{ font-size: 91px; color:white;text-transform: uppercase; text-shadow: 0 4px 2
 header img{border-radius: 80px; width: 1290px; border: 10px solid #173282; box-shadow: 0 10px 20px black;}
 h2{font-size: 25px}
 div p{font-size: 20px}
-div img{width: 900px;}
+div img{width: 900px; margin: 10 px}
 .content{max-width: 900px; margin: 0 auto; padding: 0 20px;}
 img .big-image{max-width: 100%;}
 p.caption{font-size: 14px; color: #666666;font-style: italic;}
