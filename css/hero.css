@@ -1,0 +1,16 @@
+html, body{font-family: sans-serif; margin: 0px;}  
+header{background-color: #ff832a; background-image: url('../img/background1.jpg');background-repeat: repeat; padding: 50px; text-align:center; background-size:285px}
+h1{ font-size: 91px; color:white;text-transform: uppercase; text-shadow: 0 4px 20px	black} 
+header img{border-radius: 80px; width: 1290px; border: 10px solid #173282; box-shadow: 0 10px 20px black;}
+h2{font-size: 25px}
+div p{font-size: 20px}
+div img{width: 900px;}
+.content{max-width: 900px; margin: 0 auto; padding: 0 20px;}
+img .big-image{max-width: 100%;}
+p.caption{font-size: 14px; color: #666666;font-style: italic;}
+ul{list-style: none; padding: 0; margin: 0; font-size: 20px;}
+	a{text-decoration: none; color: #3385ff	;}
+footer{margin-top: 40px; padding: 40px 20px; background-color: #173282; color: #ffffff}
+footer a{color: #ff832a}
+footer ul{text-align: center;}
+footer ul li{display: inline-block; margin: 0 5px;}
