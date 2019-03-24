@@ -9,7 +9,7 @@ div img{width: 900px; margin: 10px; margin-bottom: 0px}
 img .big-image{max-width: 100%;}
 p.caption{font-size: 14px; color: #666666;font-style: italic;}
 ul{list-style: none; padding: 0; margin: 0; font-size: 20px;}
-	a{text-decoration: none; color: #3385ff	;}
+a{text-decoration: none; color: #3385ff	;}
 footer{margin-top: 40px; padding: 40px 20px; background-color: #173282; color: #ffffff}
 footer a{color: #ff832a}
 footer ul{text-align: center;}
